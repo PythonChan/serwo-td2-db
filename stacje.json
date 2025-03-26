@@ -1,0 +1,14 @@
+{
+    "telegram": [
+        {
+            "station_id": 1,
+            "station_name": "Andrychów",
+            "beginning_only": true
+        },
+        {
+            "station_id": 2,
+            "station_name": "Kęty",
+            "beginning_only": true
+        }
+    ]
+}

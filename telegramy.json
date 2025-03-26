@@ -1,0 +1,23 @@
+{
+    "telegram": [
+        {
+            "station_id": 1,
+            "telegram_number": "",
+            "timestamp_sent": "2025-03-26T12:34:56Z",
+            "sender_nick": "DyspozytorX",
+            "railway_line": 117,
+            "start_station_id": 1,
+            "end_station_id": 2,
+            "start_kilometer": 38.12,
+            "end_kilometer": 38.795,
+            "train_direction": "oba",
+            "track_number": "szlakowy",
+            "valid_from": "2025-03-28T06:00:00Z",
+            "valid_until": "2025-03-30T18:00:00Z",
+            "operating_hours": "06:00-18:00",
+            "speed_limit": 0,
+            "cause": "Strefa robót - przejazd obok miejsca robót",
+            "content": "Prace poza skrajnią toru. Podawać sygnał Rp1 \"Baczność\"."
+        }
+    ]
+}
