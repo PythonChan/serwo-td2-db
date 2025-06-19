@@ -17,6 +17,25 @@
             "station_name": "Przęsy",
             "scenery_name": "Stare Lipowo",
             "beginning_only": true
-        }
+        },
+        {
+            "station_id": 4,
+            "station_name": "Kasztanki",
+            "scenery_name": "Dobrzyniec",
+            "beginning_only": true
+        },
+        {
+            "station_id": 5,
+            "station_name": "Kraśnica",
+            "scenery_name": "Kraśnica",
+            "beginning_only": true
+        },
+        {
+            "station_id": 6,
+            "station_name": "Wijewo",
+            "scenery_name": "Wijewo",
+            "beginning_only": true
+        },
+        
     ]
 }
