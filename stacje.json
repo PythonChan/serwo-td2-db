@@ -2,12 +2,20 @@
     "stacja": [
         {
             "station_id": 1,
-            "station_name": "Andrychów",
+            "station_name": "Arkadia Zdrój",
+            "scenery_name": "Arkadia Zdrój 2022",
             "beginning_only": true
         },
         {
             "station_id": 2,
-            "station_name": "Kęty",
+            "station_name": "Stare Lipowo",
+            "scenery_name": "Stare Lipowo",
+            "beginning_only": true
+        },
+        {
+            "station_id": 3,
+            "station_name": "Przęsy",
+            "scenery_name": "Stare Lipowo",
             "beginning_only": true
         }
     ]
