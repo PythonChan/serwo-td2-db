@@ -2,7 +2,7 @@
     "telegram": [
         {
             "station_id": 1,
-            "telegram_number": "",
+            "telegram_number": "1",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -23,7 +23,7 @@
         },
         {
             "station_id": 1,
-            "telegram_number": "",
+            "telegram_number": "2",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -44,7 +44,7 @@
         },
         {
             "station_id": 2,
-            "telegram_number": "",
+            "telegram_number": "3",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -65,7 +65,7 @@
         },
         {
             "station_id": 4,
-            "telegram_number": "",
+            "telegram_number": "4",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -86,7 +86,7 @@
         },
         {
             "station_id": 5,
-            "telegram_number": "",
+            "telegram_number": "5",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -107,7 +107,7 @@
         },
         {
             "station_id": 6,
-            "telegram_number": "",
+            "telegram_number": "6",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -128,7 +128,7 @@
         },
         {
             "station_id": 6,
-            "telegram_number": "",
+            "telegram_number": "7",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -149,7 +149,7 @@
         },
         {
             "station_id": 6,
-            "telegram_number": "",
+            "telegram_number": "8",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -170,7 +170,7 @@
         },
         {
             "station_id": 7,
-            "telegram_number": "",
+            "telegram_number": "9",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -191,7 +191,7 @@
         },
         {
             "station_id": 8,
-            "telegram_number": "",
+            "telegram_number": "10",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
@@ -212,7 +212,7 @@
         },
         {
             "station_id": 9,
-            "telegram_number": "",
+            "telegram_number": "11",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "1191",
@@ -233,7 +233,7 @@
         },
         {
             "station_id": 10,
-            "telegram_number": "",
+            "telegram_number": "12",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "54",
@@ -254,7 +254,7 @@
         },
         {
             "station_id": 10,
-            "telegram_number": "",
+            "telegram_number": "13",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "54",
@@ -275,7 +275,7 @@
         },
         {
             "station_id": 11,
-            "telegram_number": "",
+            "telegram_number": "14",
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
