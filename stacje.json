@@ -1,6 +1,12 @@
 {
     "stacja": [
         {
+            "station_id": -1,
+            "station_name": "StacjaZewn",
+            "scenery_name": "StacjaZewn",
+            "beginning_only": true
+        },
+        {
             "station_id": 1,
             "station_name": "Arkadia Zdrój",
             "scenery_name": "Arkadia Zdrój 2022",
