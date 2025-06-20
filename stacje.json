@@ -83,6 +83,12 @@
             "station_name": "Grodzisk Mazowiecki",
             "scenery_name": "LCS Grodzisk Mazowiecki",
             "beginning_only": true
+        },
+        {
+            "station_id": 14,
+            "station_name": "Józefinów",
+            "scenery_name": "LCS Grodzisk Mazowiecki",
+            "beginning_only": true
         }
     ]
 }
