@@ -268,7 +268,7 @@
             "valid_until": "",
             "operating_hours": "",
             "speed_limit": 0,
-            "cause": "System kontroli prowadzenia pociągu ERTMS/ETCS na odcinku Grodzisk Mazowiecki - Korytów został wyłączony na LCS Grodzisk Mazowiecki i wraz z unieważnieniem osygnalizowania wskaźnikó. Jazda pociągów odbywa się w oparciu o wskazania istniejących semaforów i wskaźników przytorowych",
+            "cause": "System kontroli prowadzenia pociągu ERTMS/ETCS na odcinku Grodzisk Mazowiecki - Korytów został wyłączony na LCS Grodzisk Mazowiecki i wraz z unieważnieniem osygnalizowania wskaźników. Jazda pociągów odbywa się w oparciu o wskazania istniejących semaforów i wskaźników przytorowych",
             "content": "",
             "canceled": false,
             "EntryExitName": "Kr"
