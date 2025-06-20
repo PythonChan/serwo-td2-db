@@ -209,6 +209,48 @@
             "content": "",
             "canceled": false,
             "EntryExitName": "Uo"
+        },
+        {
+            "station_id": 12,
+            "telegram_number": "12",
+            "timestamp_sent": "2025-01-01T00:00:00Z",
+            "sender_nick": "SERWO",
+            "railway_line": "",
+            "start_station_id": -1,
+            "end_station_id": 12,
+            "start_kilometer": 216.635,
+            "end_kilometer": 216.678,
+            "train_direction": "oba",
+            "track_number": "1,2",
+            "valid_from": "2025-01-01T00:00:00Z",
+            "valid_until": "",
+            "operating_hours": "",
+            "speed_limit": 40,
+            "cause": "Zły stan wiaduktu",
+            "content": "",
+            "canceled": false,
+            "EntryExitName": "Da"
+        },
+        {
+            "station_id": 12,
+            "telegram_number": "13",
+            "timestamp_sent": "2025-01-01T00:00:00Z",
+            "sender_nick": "SERWO",
+            "railway_line": "",
+            "start_station_id": 12,
+            "end_station_id": 12,
+            "start_kilometer": 218,738,
+            "end_kilometer": 219.926,
+            "train_direction": "oba",
+            "track_number": "3,4",
+            "valid_from": "2025-01-01T00:00:00Z",
+            "valid_until": "",
+            "operating_hours": "",
+            "speed_limit": 20,
+            "cause": "Zły stan podkładów",
+            "content": "",
+            "canceled": false,
+            "EntryExitName": ""
         }
     ]
 }
