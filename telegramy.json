@@ -272,27 +272,6 @@
             "content": "",
             "canceled": false,
             "EntryExitName": "Kr"
-        },
-        {
-            "station_id": 13,
-            "telegram_number": "15",
-            "timestamp_sent": "2025-01-01T00:00:00Z",
-            "sender_nick": "SERWO",
-            "railway_line": "4\nS",
-            "start_station_id": -1,
-            "end_station_id": 14,
-            "start_kilometer": 21.377,
-            "end_kilometer": 9.200,
-            "train_direction": "oba",
-            "track_number": "3,4",
-            "valid_from": "2025-01-01T00:00:00Z",
-            "valid_until": "",
-            "operating_hours": "",
-            "speed_limit": 0,
-            "cause": "System kontroli prowadzenia pociągu ERTMS/ETCS na odcinku Grodzisk Mazowiecki - Korytów został wyłączony na LCS Grodzisk Mazowiecki i wraz z unieważnieniem osygnalizowania wskaźnikó. Jazda pociągów odbywa się w oparciu o wskazania istniejących semaforów i wskaźników przytorowych",
-            "content": "",
-            "canceled": false,
-            "EntryExitName": "Wł1"
         }
     ]
 }
