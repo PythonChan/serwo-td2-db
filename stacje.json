@@ -41,6 +41,24 @@
             "station_name": "Arkadia Zdrój",
             "scenery_name": "Arkadia Zdrój 2012",
             "beginning_only": true
+        },
+        {
+            "station_id": 8,
+            "station_name": "Brenno",
+            "scenery_name": "Brenno",
+            "beginning_only": true
+        },
+        {
+            "station_id": 9,
+            "station_name": "Głębce",
+            "scenery_name": "Głębce",
+            "beginning_only": true
+        },
+        {
+            "station_id": 10,
+            "station_name": "Dobrzyniec",
+            "scenery_name": "Dobrzyniec",
+            "beginning_only": false
         }
     ]
 }
