@@ -239,7 +239,7 @@
             "railway_line": "",
             "start_station_id": 12,
             "end_station_id": 12,
-            "start_kilometer": 218,738,
+            "start_kilometer": 218.738,
             "end_kilometer": 219.926,
             "train_direction": "oba",
             "track_number": "3,4",
