@@ -71,6 +71,12 @@
             "station_name": "Czermin",
             "scenery_name": "Czermin",
             "beginning_only": true
+        },
+        {
+            "station_id": 12,
+            "station_name": "Kowalewo",
+            "scenery_name": "Kowalewo",
+            "beginning_only": true
         }
     ]
 }
