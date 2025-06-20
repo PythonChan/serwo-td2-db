@@ -65,6 +65,12 @@
             "station_name": "Dobrzyniec",
             "scenery_name": "Dobrzyniec",
             "beginning_only": false
+        },
+        {
+            "station_id": 11,
+            "station_name": "Czermin",
+            "scenery_name": "Czermin",
+            "beginning_only": true
         }
     ]
 }
