@@ -272,6 +272,27 @@
             "content": "Podawać dodatkowo sygnał Rp1 \"Baczność\"",
             "canceled": false,
             "EntryExitName": ""
+        },
+        {
+            "station_id": 11,
+            "telegram_number": "",
+            "timestamp_sent": "2025-01-01T00:00:00Z",
+            "sender_nick": "SERWO",
+            "railway_line": "",
+            "start_station_id": 11,
+            "end_station_id": -1,
+            "start_kilometer": 311.123,
+            "end_kilometer": 311.234,
+            "train_direction": "oba",
+            "track_number": "2",
+            "valid_from": "2025-01-01T00:00:00Z",
+            "valid_until": "",
+            "operating_hours": "",
+            "speed_limit": 0,
+            "cause": "Strefa robót - przejazd obok miejsca robót",
+            "content": "Prace poza skrajnią toru. Podawać sygnał Rp1 \"Baczność\".",
+            "canceled": false,
+            "EntryExitName": "Lk"
         }
     ]
 }
