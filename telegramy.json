@@ -272,6 +272,27 @@
             "content": "",
             "canceled": false,
             "EntryExitName": "Kr"
+        },
+        {
+            "station_id": 15,
+            "telegram_number": "15",
+            "timestamp_sent": "2025-01-01T00:00:00Z",
+            "sender_nick": "SERWO",
+            "railway_line": "",
+            "start_station_id": 15,
+            "end_station_id": -1,
+            "start_kilometer": 112.461,
+            "end_kilometer": 112.537,
+            "train_direction": "oba",
+            "track_number": "1,2",
+            "valid_from": "2025-01-01T00:00:00Z",
+            "valid_until": "",
+            "operating_hours": "",
+            "speed_limit": 60,
+            "cause": "Realizacja inwestycji",
+            "content": "",
+            "canceled": false,
+            "EntryExitName": "NE"
         }
     ]
 }
