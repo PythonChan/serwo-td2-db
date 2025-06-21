@@ -95,6 +95,12 @@
             "station_name": "Tarkowice",
             "scenery_name": "Tarkowice",
             "beginning_only": true
+        },
+        {
+            "station_id": 16,
+            "station_name": "Włoszczowa Północ",
+            "scenery_name": "Włoszczowa Północ",
+            "beginning_only": true
         }
     ]
 }
