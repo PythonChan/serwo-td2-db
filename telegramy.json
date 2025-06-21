@@ -293,6 +293,27 @@
             "content": "",
             "canceled": false,
             "EntryExitName": "NE"
+        },
+        {
+            "station_id": 16,
+            "telegram_number": "16",
+            "timestamp_sent": "2025-01-01T00:00:00Z",
+            "sender_nick": "SERWO",
+            "railway_line": "",
+            "start_station_id": -1,
+            "end_station_id": 16,
+            "start_kilometer": 142.680,
+            "end_kilometer": 143.000,
+            "train_direction": "oba",
+            "track_number": "1,2",
+            "valid_from": "2025-01-01T00:00:00Z",
+            "valid_until": "",
+            "operating_hours": "",
+            "speed_limit": 120,
+            "cause": "Strefa robót - przejazd obok miejsca robót",
+            "content": "",
+            "canceled": false,
+            "EntryExitName": "Ol"
         }
     ]
 }
