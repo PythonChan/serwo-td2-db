@@ -89,6 +89,12 @@
             "station_name": "Józefinów",
             "scenery_name": "LCS Grodzisk Mazowiecki",
             "beginning_only": true
+        },
+        {
+            "station_id": 15,
+            "station_name": "Tarkowice",
+            "scenery_name": "Tarkowice",
+            "beginning_only": true
         }
     ]
 }
