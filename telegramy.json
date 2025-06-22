@@ -344,7 +344,7 @@
             "track_number": "",
             "valid_from": "2025-01-01T00:00:00Z",
             "valid_until": "",
-            "operating_hours": "",
+            "operating_hours": "22:00-6:00",
             "speed_limit": 0,
             "cause": "Silne wiatry",
             "content": "Z UWAGI NA PRZEWIDYWANE NASILENIE WIATRU I MOŻLIWOŚĆ USZKODZEŃ INFRASTRUKTURY WZMÓC OBSERWACJĘ PRZEDPOLA JAZDY I ZACHOWAĆ OSTROŻNOŚĆ",
