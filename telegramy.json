@@ -314,6 +314,27 @@
             "content": "",
             "canceled": false,
             "entryExitName": "Ol"
+        },
+        {
+            "station_id": 17,
+            "telegram_number": "17",
+            "timestamp_sent": "2025-01-01T00:00:00Z",
+            "sender_nick": "SERWO",
+            "railway_line": "",
+            "start_station_id": 17,
+            "end_station_id": 17,
+            "start_kilometer": 0.000,
+            "end_kilometer": 0.001,
+            "train_direction": "oba",
+            "track_number": "",
+            "valid_from": "2025-01-01T00:00:00Z",
+            "valid_until": "",
+            "operating_hours": "",
+            "speed_limit": 0,
+            "cause": "Silne wiatry",
+            "content": "Z UWAGI NA PRZEWIDYWANE NASILENIE WIATRU I MOŻLIWOŚĆ USZKODZEŃ INFRASTRUKTURY WZMÓC OBSERWACJĘ PRZEDPOLA JAZDY I ZACHOWAĆ OSTROŻNOŚĆ",
+            "canceled": false,
+            "entryExitName": ""
         }
     ]
 }
