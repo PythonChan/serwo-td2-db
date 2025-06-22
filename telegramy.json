@@ -19,7 +19,7 @@
             "cause": "Zły stan techniczny wiaduktu",
             "content": "",
             "canceled": false,
-            "EntryExitName": ""
+            "entryExitName": ""
         },
         {
             "station_id": 1,
@@ -40,7 +40,7 @@
             "cause": "Zły stan techniczny wiaduktu",
             "content": "",
             "canceled": false,
-            "EntryExitName": ""
+            "entryExitName": ""
         },
         {
             "station_id": 4,
@@ -61,7 +61,7 @@
             "cause": "Zły stan obiektu inżynieryjnego",
             "content": "",
             "canceled": false,
-            "EntryExitName": "Wm"
+            "entryExitName": "Wm"
         },
         {
             "station_id": 5,
@@ -82,7 +82,7 @@
             "cause": "Zły stan rozjazdu nr 200",
             "content": "Dotyczy jazdy na kierunek zwrotny, jazda na kierunek na wprost niemożliwa",
             "canceled": false,
-            "EntryExitName": ""
+            "entryExitName": ""
         },
         {
             "station_id": 6,
@@ -103,7 +103,7 @@
             "cause": "Tor po naprawie",
             "content": "",
             "canceled": false,
-            "EntryExitName": "Mo"
+            "entryExitName": "Mo"
         },
         {
             "station_id": 6,
@@ -124,7 +124,7 @@
             "cause": "Zły stan toru",
             "content": "",
             "canceled": false,
-            "EntryExitName": ""
+            "entryExitName": ""
         },
         {
             "station_id": 6,
@@ -145,7 +145,7 @@
             "cause": "Niestabilne podtorze",
             "content": "",
             "canceled": false,
-            "EntryExitName": ""
+            "entryExitName": ""
         },
         {
             "station_id": 7,
@@ -166,7 +166,7 @@
             "cause": "Zły stan toru",
             "content": "",
             "canceled": false,
-            "EntryExitName": ""
+            "entryExitName": ""
         },
         {
             "station_id": 8,
@@ -187,7 +187,7 @@
             "cause": "Zły stan rozjazdu nr 23",
             "content": "",
             "canceled": false,
-            "EntryExitName": ""
+            "entryExitName": ""
         },
         {
             "station_id": 9,
@@ -208,7 +208,7 @@
             "cause": "Zły stan toru",
             "content": "",
             "canceled": false,
-            "EntryExitName": "Uo"
+            "entryExitName": "Uo"
         },
         {
             "station_id": 12,
@@ -229,7 +229,7 @@
             "cause": "Zły stan wiaduktu",
             "content": "",
             "canceled": false,
-            "EntryExitName": "Da"
+            "entryExitName": "Da"
         },
         {
             "station_id": 12,
@@ -250,7 +250,7 @@
             "cause": "Zły stan podkładów",
             "content": "",
             "canceled": false,
-            "EntryExitName": ""
+            "entryExitName": ""
         },
         {
             "station_id": 13,
@@ -271,7 +271,7 @@
             "cause": "System kontroli prowadzenia pociągu ERTMS/ETCS na odcinku Grodzisk Mazowiecki - Korytów został wyłączony na LCS Grodzisk Mazowiecki i wraz z unieważnieniem osygnalizowania wskaźników. Jazda pociągów odbywa się w oparciu o wskazania istniejących semaforów i wskaźników przytorowych",
             "content": "",
             "canceled": false,
-            "EntryExitName": "Kr"
+            "entryExitName": "Kr"
         },
         {
             "station_id": 15,
@@ -292,7 +292,7 @@
             "cause": "Realizacja inwestycji",
             "content": "",
             "canceled": false,
-            "EntryExitName": "NE"
+            "entryExitName": "NE"
         },
         {
             "station_id": 16,
@@ -313,7 +313,7 @@
             "cause": "Strefa robót - przejazd obok miejsca robót",
             "content": "",
             "canceled": false,
-            "EntryExitName": "Ol"
+            "entryExitName": "Ol"
         }
     ]
 }
