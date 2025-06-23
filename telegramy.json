@@ -172,7 +172,7 @@
             "speed_limit": 20,
             "cause": "Zły stan toru",
             "content": "",
-            "canceled": false,
+            "canceled": true,
             "entryExitName": "",
             "everyTrain": false
         },
