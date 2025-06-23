@@ -6,7 +6,7 @@
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
-            "start_station_id": 1,
+            "start_station_id": -1,
             "end_station_id": 1,
             "start_kilometer": 30.318,
             "end_kilometer": 30.335,
@@ -19,7 +19,7 @@
             "cause": "Zły stan techniczny wiaduktu",
             "content": "",
             "canceled": false,
-            "entryExitName": "",
+            "entryExitName": "MA",
             "everyTrain": false
         },
         {
@@ -28,7 +28,7 @@
             "timestamp_sent": "2025-01-01T00:00:00Z",
             "sender_nick": "SERWO",
             "railway_line": "",
-            "start_station_id": 1,
+            "start_station_id": -1,
             "end_station_id": 1,
             "start_kilometer": 0.563,
             "end_kilometer": 0.585,
@@ -41,7 +41,7 @@
             "cause": "Zły stan techniczny wiaduktu",
             "content": "",
             "canceled": false,
-            "entryExitName": "",
+            "entryExitName": "RS",
             "everyTrain": false
         },
         {
