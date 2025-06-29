@@ -125,6 +125,12 @@
             "station_name": "Nysowiec",
             "scenery_name": "Nysowiec",
             "beginning_only": true
+        },
+        {
+            "station_id": 21,
+            "station_name": "Łapanów",
+            "scenery_name": "Łapanów",
+            "beginning_only": true
         }
     ]
 }
