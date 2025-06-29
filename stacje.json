@@ -107,6 +107,24 @@
             "station_name": "Obowiązuje na całej drodze przebiegu",
             "scenery_name": "Techn",
             "beginning_only": true
+        },
+        {
+            "station_id": 18,
+            "station_name": "Sarnów Modrzewski",
+            "scenery_name": "Sarnów Modrzewski",
+            "beginning_only": true
+        },
+        {
+            "station_id": 19,
+            "station_name": "Psary",
+            "scenery_name": "Psary",
+            "beginning_only": true
+        },
+        {
+            "station_id": 20,
+            "station_name": "Nysowiec",
+            "scenery_name": "Nysowiec",
+            "beginning_only": true
         }
     ]
 }
