@@ -172,7 +172,7 @@
             "speed_limit": 20,
             "cause": "DOTYCZY NAWIERZCHNI I PODTORZA",
             "content": "Pogorszenie stanu toru",
-            "canceled": true,
+            "canceled": false,
             "entryExitName": "",
             "everyTrain": false
         },
