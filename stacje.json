@@ -131,6 +131,12 @@
             "station_name": "Łapanów",
             "scenery_name": "Łapanów",
             "beginning_only": true
+        },
+        {
+            "station_id": 22,
+            "station_name": "Wilki",
+            "scenery_name": "Wilki",
+            "beginning_only": true
         }
     ]
 }

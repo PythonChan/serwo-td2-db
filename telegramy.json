@@ -461,6 +461,28 @@
             "canceled": false,
             "entryExitName": "",
             "everyTrain": false
+        },
+        {
+            "station_id": 22,
+            "telegram_number": "23",
+            "timestamp_sent": "2025-01-01T00:00:00Z",
+            "sender_nick": "SERWO",
+            "railway_line": "",
+            "start_station_id": -1,
+            "end_station_id": 22,
+            "start_kilometer": 4.400,
+            "end_kilometer": 4.980,
+            "train_direction": "oba",
+            "track_number": "1",
+            "valid_from": "2025-01-01T00:00:00Z",
+            "valid_until": "",
+            "operating_hours": "",
+            "speed_limit": 60,
+            "cause": "DOTYCZY NAWIERZCHNI I PODTORZA",
+            "content": "Pogorszenie stanu podtorza",
+            "canceled": false,
+            "entryExitName": "Jm",
+            "everyTrain": false
         }
     ]
 }
